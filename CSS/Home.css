@@ -17,7 +17,7 @@ body {
   }
 
   h2 {
-    color: powderblue;
+    color: #333;
     text-align: center;
     margin-top: 25px;
   }
@@ -29,6 +29,14 @@ body {
     font-size: larger;
     font-style: oblique;
     color: azure;
+
+  }
+
+  p2 {
+    font-weight: bold;
+    font-size: larger;
+    font-style: oblique;
+    color: rgb(0, 145, 255);
 
   }
   
@@ -71,6 +79,24 @@ body {
     bottom:0px;
     border-color: rgb(0, 145, 255);
   }
+
+  button {
+    padding: 10px;
+  }
+
+  div {
+    background-color: #333;
+    margin: 25px; 
+    margin-left: 500px; 
+    margin-right: 575px;
+  }
+
+  embed{
+    width: 500px;
+    height: 250px;
+  }
+
+
   
 
 
