@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body {
     background-image: url('/pictures/Mountains.jpg');
     background-repeat: no-repeat;
@@ -46,3 +51,85 @@ body {
     border-width: 5px;
     border-width: 0px 675px;
   }
+
+  .BigBox {
+    background-color: #333;
+  }
+
+.Resume {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background-color: white;
+    color: #363636;
+    padding: 10px;
+}
+
+.BasicInfo {
+    padding: 25px 0px 0px 0px;
+    color: white;
+}
+
+.Link {
+    text-align: center;
+    padding: 5px 0px 0px 0px;
+}
+
+a.Email {
+    background-color: white;
+    border-style: solid;
+    border: 2px;
+    color: #00539e;
+    text-decoration: none;
+}
+
+a.LinkedIn {
+    background-color: white;
+    border-style: solid;
+    border: 2px;
+    color: #00539e;
+    text-decoration: none;
+}
+
+div.Education ul.HighSchoolDegree {
+    list-style-type: square;
+    padding: 0px 0px 0px 375px;
+    color: white;
+}
+
+div.Education ul.CollegeDegree {
+    list-style-type: square;
+    padding: 0px 0px 0px 375px;
+    color: white;
+}
+
+div.AdditionalSkills ul.Skills {
+    list-style-type: square;
+    padding: 0px 0px 0px 375px;
+    color: #66a0cd;
+}
+
+
+.alignleft {
+    float: left;
+}
+.alignright {
+    float: right;
+}
+div.Experiance ul.Jobs {
+    list-style-type: square;
+    padding: 0px 0px 0px 375px;
+    color: white;
+}
+
+.alignleft {
+    float: left;
+}
+.alignright {
+    float: right;
+}
+div.Experiance ul.Jobs {
+    list-style-type: square;
+    padding: 0px 0px 0px 375px;
+    color: white;
+}
