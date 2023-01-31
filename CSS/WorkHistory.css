@@ -121,15 +121,3 @@ div.Experiance ul.Jobs {
     padding: 0px 0px 0px 375px;
     color: white;
 }
-
-.alignleft {
-    float: left;
-}
-.alignright {
-    float: right;
-}
-div.Experiance ul.Jobs {
-    list-style-type: square;
-    padding: 0px 0px 0px 375px;
-    color: white;
-}
